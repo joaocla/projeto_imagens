@@ -2,7 +2,7 @@
 
 ## 🧠 Objetivo
 
-Este projeto tem como foco aplicar técnicas de **OCR (Reconhecimento Óptico de Caracteres)** em imagens para extrair textos automaticamente. As imagens escolhidas foram de um **lago** e de uma **praia**, contendo elementos visuais e textuais para teste.
+Este projeto tem como foco aplicar técnicas de **OCR (Reconhecimento Óptico de Caracteres)** em imagens para extrair textos automaticamente. As imagens escolhidas foram de um **lago** e de uma **praia**, contendo elementos visuais e textuais para teste utilizando o Microsoft Copilot. 
 
 ---
 
